@@ -1,7 +1,7 @@
 # 🛡 CyberLogParser Pro 2026
 
 **Siber güvenlik analistleri için geliştirilmiş, modern ve kapsamlı log analiz aracı.**  
-Tek dosya, sıfır konfigürasyon — aç ve kullan.
+Tek dosya, sıfır konfigürasyon — lokalde çalışan, dış ağdan izole, api istekleri atmayan, aç ve kullan.
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue?style=flat-square&logo=python)
 ![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)
