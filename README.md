@@ -7,6 +7,19 @@ Tek dosya, sıfır konfigürasyon — lokalde çalışan, dış ağdan izole, ap
 ![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)
 ![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux%20%7C%20macOS-lightgrey?style=flat-square)
 
+
+
+
+<img width="2559" height="1391" alt="1" src="https://github.com/user-attachments/assets/049e907d-0486-48ae-a523-bbadeafbc4b5" />
+<img width="2559" height="1392" alt="2" src="https://github.com/user-attachments/assets/700627e4-66df-4f2e-b4f1-0ee7823f1854" />
+<img width="2559" height="1396" alt="3" src="https://github.com/user-attachments/assets/9b178178-da77-4e7a-b2fe-7b15f94ace5e" />
+<img width="2559" height="1392" alt="4" src="https://github.com/user-attachments/assets/30f92d0e-04a3-4a05-8d0b-cf8fb2d5bba5" />
+<img width="2559" height="1398" alt="5" src="https://github.com/user-attachments/assets/04731a2b-cd94-407d-b027-118089d95620" />
+
+
+
+
+
 ---
 
 ## Ne İşe Yarıyor?
