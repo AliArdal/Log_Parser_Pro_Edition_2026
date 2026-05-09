@@ -3,7 +3,7 @@
 # 🛡 CyberLogParser Pro 2026
 
 **Siber güvenlik analistleri için geliştirilmiş, modern ve kapsamlı log analiz aracı.**  
-Tek dosya, sıfır konfigürasyon — aç ve kullan.
+Tek dosya, sıfır konfigürasyon — aç ve kullan.Lokalde çalışır ağ bağlantısı gerekmeden, dışarıya veri göndermeden 
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue?style=flat-square&logo=python)
 ![CustomTkinter](https://img.shields.io/badge/UI-CustomTkinter-cyan?style=flat-square)
@@ -39,6 +39,7 @@ Log dosyası açarsın, **Parse Et**'e basarsın. Tehditler zaten karşında olu
 | AWS VPC Flow Logs | CloudWatch / S3 export |
 | FortiGate Traffic Log | `sample_logs/fortigate_traffic.log` |
 | Sıkıştırılmış | `.gz` / `.bz2` / `.zip` |
+
 
 > Tanınamayan formatlarda da çalışır — temel IP/mesaj çıkarımı yapar.
 
@@ -156,6 +157,15 @@ CyberLogParser.py  (tek dosya, ~1700 satır)
 ---
 
 *SOC analistleri için, Ali Ardal tarafından yapıldı.*
+
+<img width="2559" height="1391" alt="1" src="https://github.com/user-attachments/assets/988afbb9-1bea-499d-b438-345e0ddf9bfc" />
+<img width="2559" height="1392" alt="2" src="https://github.com/user-attachments/assets/04bcbb8d-88f8-43ac-a480-fb413ba16e8d" />
+<img width="2559" height="1396" alt="3" src="https://github.com/user-attachments/assets/0fa68350-8efd-46df-bc60-fbcd433ac95e" />
+<img width="2559" height="1392" alt="4" src="https://github.com/user-attachments/assets/10e0370a-3fdf-43a4-af66-160f2ddc50e6" />
+<img width="2559" height="1398" alt="5" src="https://github.com/user-attachments/assets/563951f5-0b47-495c-b620-95ea67bc75f3" />
+
+
+
 
 
 
