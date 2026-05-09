@@ -48,7 +48,7 @@ Log dosyası açarsın, **Parse Et**'e basarsın. Tehditler zaten karşında olu
 
 ```bash
 # 1. Repoyu klonla
-git clone https://github.com/kullanicin/CyberLogParser.git
+git clone https://github.com/AliArdal/CyberLogParser.git
 cd CyberLogParser
 
 # 2. Bağımlılıkları kur (zorunlu)
@@ -153,13 +153,9 @@ CyberLogParser.py  (tek dosya, ~1700 satır)
 
 ---
 
-## Lisans
-
-MIT — istediğin gibi kullan, değiştir, dağıt.
-
 ---
 
-*SOC analistleri için, SOC analistleri tarafından yapıldı.*
+*SOC analistleri için, Ali Ardal tarafından yapıldı.*
 
 
 
